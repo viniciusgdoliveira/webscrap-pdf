@@ -23,3 +23,8 @@ This Python script scrapes a repository of PDF documents from the Universidade F
    ```bash
    pip install -r requirements.txt
    ```
+2. Run the script
+   ```bash
+   python webscrap.py
+   ```
+The downloaded PDFs will be saved in the pdfs directory.
